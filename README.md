@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm KAVITHA R</h1>
-<h3 align="center">CSE Undergraduate | AI/ML Enthusiast | Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">CSE Undergraduate | AI/ML Enthusiast | UI/UX Designer</h3>
 
 ---
 
