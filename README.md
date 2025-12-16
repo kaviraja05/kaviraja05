@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm KAVITHA R</h1>
-  <h3 align="center">Software Developer | Java & Spring Boot Specialist | Full Stack Developer 🏆</h3>
+  <h3 align="center">Software Developer | Java & Spring Boot Specialist | Full Stack Developer</h3>
 </div>
 
 <p align="center">
  <em>Final Year CSE Student at University College of Engineering, Kanchipuram (CGPA: 8.7)</em><br>
- <b>Building scalable backend systems & decentralized applications.</b>
+ <b>Creating reliable software systems is not just my career path — it’s what excites me every day.</b>
 </p>
 
 <p align="center">
@@ -55,17 +55,22 @@
 | 📅 **Smart Study Planner**<br>*(Frontend App)*<br>Dynamic scheduling web app with responsive UI for student productivity. | `JavaScript` `React.js` `CSS3` | *Coming Soon* |
 | 🎟️ **Event Ticketing DApp**<br>*(Web3)*<br>Decentralized NFT ticketing platform to prevent scalping and ensure authenticity. | `Solidity` `Ethereum` `Metamask` | [🔗 Demo](https://kaviraja05.github.io/Event-ticketing-dapp/)<br>[📂 Code](https://github.com/kaviraja05/Event-ticketing-dapp) |
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaviraja05&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraja05&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraja05&theme=tokyonight&hide_border=true" width="500"/>
+</p>
+
 ---
 
-### 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviraja05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF&icon_color=2088FF" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraja05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraja05&theme=tokyonight&hide_border=true&background=0D1117&ring=2088FF&fire=2088FF&currStreakLabel=2088FF" alt="streak graph" />
-</div>
+## 🌱 Currently Learning
+- Advanced Spring Boot & Security
+- Scalable Backend System Design
+- AI integration in enterprise applications
 
 ---
