@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+KAVITHA+R;Software+Developer;Java+%2B+Spring+Boot+Specialist;Hackathon+Winner+🏆;AI+%26+Web3+Enthusiast" alt="Typing SVG" />
+  <h1 align="center">Hi there 👋, I'm KAVITHA RAJA</h1>
+  <h3 align="center">Software Developer | Java & Spring Boot Specialist | Hackathon Winner 🏆</h3>
 </div>
 
 <p align="center">
@@ -7,15 +8,15 @@
 </p>
 
 <p align="center">
- <em>Final Year CSE Student at University College of Engineering, Kanchipuram</em><br>
+ <em>Final Year CSE Student at University College of Engineering, Kanchipuram (CGPA: 8.7)</em><br>
  <b>Building scalable backend systems & decentralized applications.</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kavitha-r-a1a2a92a1">
+  <a href="https://www.linkedin.com/in/kavithar84">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kaviyuva2005@gmail.com">
+  <a href="mailto:kavitharraja.84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -24,11 +25,14 @@
 
 ### 🚀 About Me
 
-- 🏆 **Hackathon Winner:** Secured **1st Prize** in the *Naan Mudhalvan Hackathon* for building a scalable Event Ticketing System.
-- 👨‍💻 **Core Focus:** Enterprise Backend Engineering (**Java Spring Boot**) & Modern Full Stack (**Next.js**).
-- 💼 **Experience:** Former Full Stack Intern at **CodeAlpha** (E-commerce & Management Tools).
-- 🎯 **Current Interest:** Integrating **AI Agents** into SaaS products & **Web3** Smart Contracts.
-- 💬 **Ask me about:** Java Microservices, REST APIs, and Prompt Engineering.
+- 🏆 **Hackathon Winner:** Secured **1st Prize** in the *Naan Mudhalvan Hackathon* for architecting a scalable Event Ticketing System.
+- 👨‍💻 **Core Focus:** Enterprise Backend Engineering (**Java Spring Boot**, **Microservices**) & Full Stack Development.
+- 💼 **Internships:**
+  - **Digisailor:** Java Spring Boot Intern (Backend & SQL Optimization).
+  - **IBM & Edunet:** Frontend Web Development Intern.
+  - **CodeAlpha:** Full Stack Development Intern.
+- 🎯 **Current Interest:** Integrating **AI Agents** into SaaS products & **System Design**.
+- 💬 **Ask me about:** REST APIs, Data Structures, and Docker.
 
 ---
 
@@ -36,9 +40,10 @@
 
 <div align="center">
 
-| **Core Languages** | **Frameworks & Libs** | **Tools & DBs** |
+| **Core Languages** | **Frameworks & Libs** | **Tools, DBs & OS** |
 | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
 
@@ -48,10 +53,11 @@
 
 | **Project Name** | **Tech Stack** | **Links** |
 | :--- | :--- | :---: |
-| 🏆 **Event Ticketing Engine**<br>*(Hackathon Winner)*<br>A microservices-based backend for real-time seat booking and secure registration. | `Java` `Spring Boot` `MySQL` `REST APIs` | [📂 Code](https://github.com/Sharikarajan07/NM_Hackathon_Level2) |
-| 🚀 **ProjectFlow**<br>*(SaaS Platform)*<br>Real-time project management tool with Kanban boards and drag-and-drop features. | `Next.js 14` `TypeScript` `Supabase` `Tailwind` | *Coming Soon* |
+| 🏆 **Event Ticketing Engine**<br>*(Hackathon Winner)*<br>Microservices-based backend for real-time seat booking and secure registration. | `Java` `Spring Boot` `MySQL` `REST APIs` | [📂 Code](https://github.com/Sharikarajan07/NM_Hackathon_Level2) |
+| 🔗 **Scalable URL Shortener**<br>*(Backend Performance)*<br>Custom alias generation service optimized for 50% more concurrent requests. | `Java` `Spring Boot` `MySQL` `Redis` | *Coming Soon* |
+| 🤖 **AI Resume Analyzer**<br>*(AI Tool)*<br>Parses resumes to extract skills and provide automated scoring using NLP. | `Python` `Flask` `HTML/CSS` `NLP` | *Coming Soon* |
+| 📅 **Smart Study Planner**<br>*(Frontend App)*<br>Dynamic scheduling web app with responsive UI for student productivity. | `JavaScript` `React.js` `CSS3` | *Coming Soon* |
 | 🎟️ **Event Ticketing DApp**<br>*(Web3)*<br>Decentralized NFT ticketing platform to prevent scalping and ensure authenticity. | `Solidity` `Ethereum` `Metamask` | [🔗 Demo](https://kaviraja05.github.io/Event-ticketing-dapp/)<br>[📂 Code](https://github.com/kaviraja05/Event-ticketing-dapp) |
-| 🤖 **AI Resume Analyzer**<br>*(AI Tool)*<br>Parses resumes against job descriptions to provide actionable match scores. | `Python` `NLP` `AI` | *Coming Soon* |
 
 ---
 
