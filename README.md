@@ -65,10 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraja05&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraja05&theme=tokyonight&hide_border=true" width="500"/>
-</p>
-
 ---
 
 ## 🌱 Currently Learning
