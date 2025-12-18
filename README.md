@@ -12,12 +12,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavithar84">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:kavitharraja.84@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"/>
   </a>
 </p>
+
 
 ---
 
@@ -75,6 +76,3 @@
 - Backend System Design & Scalability
 - AI integration in enterprise software
 
----
-
-⭐ **Actively seeking entry-level Software Developer / Full Stack Java Developer opportunities**
