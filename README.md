@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm KAVITHA R</h1>
-  <h3 align="center">Software Developer | Java & Spring Boot Specialist | Full Stack Developer</h3>
+  <h3 align="center">Software Developer | Java & Spring Boot Specialist | Full Stack Developer | AI Enthusiast</h3>
 </div>
 
 <p align="center">
@@ -50,9 +50,8 @@
 | **Project Name** | **Tech Stack** | **Links** |
 | :--- | :--- | :---: |
 | 🏆 **Event Ticketing Engine**<br>*(Hackathon Winner)*<br>Microservices-based backend for real-time seat booking and secure registration. | `Java` `Spring Boot` `MySQL` `REST APIs` | [📂 Code](https://github.com/Sharikarajan07/NM_Hackathon_Level2) |
-| 🔗 **Scalable URL Shortener**<br>*(Backend Performance)*<br>Custom alias generation service optimized for 50% more concurrent requests. | `Java` `Spring Boot` `MySQL` `Redis` | *Coming Soon* |
-| 🤖 **AI Resume Analyzer**<br>*(AI Tool)*<br>Parses resumes to extract skills and provide automated scoring using NLP. | `Python` `Flask` `HTML/CSS` `NLP` | *Coming Soon* |
-| 📅 **Smart Study Planner**<br>*(Frontend App)*<br>Dynamic scheduling web app with responsive UI for student productivity. | `JavaScript` `React.js` `CSS3` | *Coming Soon* |
+| 🤖 **AI Resume Analyzer**<br>*(AI Tool)*<br>Parses resumes to extract skills and provide automated scoring using NLP. | `Python` `Flask` `HTML/CSS` `NLP` | [📂 Code](https://github.com/kaviraja05/AI-Resume-Analyzer) |
+| 📅 **Smart Study Planner**<br>*(Frontend App)*<br>Dynamic scheduling web app with responsive UI for student productivity. | `JavaScript` `React.js` `CSS3` |  [📂 Code](https://github.com/kaviraja05/Study_Planner) |
 | 🎟️ **Event Ticketing DApp**<br>*(Web3)*<br>Decentralized NFT ticketing platform to prevent scalping and ensure authenticity. | `Solidity` `Ethereum` `Metamask` | [🔗 Demo](https://kaviraja05.github.io/Event-ticketing-dapp/)<br>[📂 Code](https://github.com/kaviraja05/Event-ticketing-dapp) |
 
 ## 📈 GitHub Stats
