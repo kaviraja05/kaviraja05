@@ -30,6 +30,7 @@
   - **Digisailor:** Java Spring Boot Intern (Backend APIs, SQL optimization)
   - **IBM & Edunet:** Frontend Web Development Intern
   - **CodeAlpha:** Full Stack Development Intern
+  - **DLK Technologies:** Artificial Intelligence Intern
 - 🎯 **Current Focus:** System design, backend scalability, and integrating **AI agents** into SaaS applications.
 - 💬 **Comfortable With:** REST APIs, OOP, Data Structures, and backend problem-solving.
 
