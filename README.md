@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Kavitha R</h1>
   <h3>
-    Software Developer | Java & Spring Boot | Full Stack Developer | AI Enthusiast
+    Software Developer | Full Stack Developer | Web Development | AI Enthusiast
   </h3>
 </div>
 
