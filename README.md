@@ -66,7 +66,6 @@
 - GitHub
 - Postman
 - Docker
-- Linux
 
 ---
 
