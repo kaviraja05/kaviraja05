@@ -54,6 +54,8 @@
 - CSS3
 - JavaScript
 - React.js
+- Next.js
+- Tailwind CSS
 - Responsive UI Design
 
 ### 🗄️ Databases
